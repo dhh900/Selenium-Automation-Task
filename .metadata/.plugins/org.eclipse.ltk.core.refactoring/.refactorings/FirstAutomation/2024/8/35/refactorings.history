@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;FirstAutomation.FirstAutomation.App&apos; to &apos;Task3_SwagLabs&apos;&#x0D;&#x0A;- Original project: &apos;FirstAutomation&apos;&#x0D;&#x0A;- Original element: &apos;FirstAutomation.FirstAutomation.App&apos;&#x0D;&#x0A;- Renamed element: &apos;FirstAutomation.FirstAutomation.Task3_SwagLabs&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;App&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;FirstAutomation.FirstAutomation{App.java[App" matchStrategy="1" name="Task3_SwagLabs" qualified="false" references="true" similarDeclarations="true" stamp="1724707369451" textual="false" version="1.0"/>
+</session>

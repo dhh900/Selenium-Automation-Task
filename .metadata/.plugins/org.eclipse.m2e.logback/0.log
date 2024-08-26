@@ -389,3 +389,70 @@
 2024-08-24 01:17:55,040 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
 2024-08-24 01:17:55,042 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-08-24 01:17:55,042 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:16:36,131 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-27 00:17:47,970 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:17:47,971 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:17:47,976 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:17:47,976 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:19:11,486 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:19:11,487 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:19:11,493 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:19:11,494 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:19:56,858 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FirstAutomation:FirstAutomation:0.0.1-SNAPSHOT @ G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\pom.xml.
+2024-08-27 00:19:58,031 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:19:58,031 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:19:58,039 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:19:58,040 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:20:16,139 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:20:16,140 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:20:16,146 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:20:16,147 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:21:40,074 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:21:40,074 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:21:40,077 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:21:40,077 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:22:50,036 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:22:50,036 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:22:50,041 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:22:50,042 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:23:26,248 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FirstAutomation:FirstAutomation:0.0.1-SNAPSHOT @ G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\pom.xml.
+2024-08-27 00:23:26,729 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:26,729 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:23:26,731 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:26,732 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:23:33,037 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:33,037 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:23:33,039 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:33,039 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:23:54,985 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:54,985 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:23:54,987 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:23:54,987 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:30:43,254 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:30:43,255 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:30:43,257 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:30:43,257 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:30:59,478 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:30:59,478 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:30:59,480 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:30:59,480 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:34:16,237 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:34:16,238 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:34:16,239 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:34:16,239 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:37:58,583 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:37:58,583 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:37:58,584 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:37:58,585 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:39:05,480 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:39:05,481 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:39:05,490 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:39:05,490 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:39:50,304 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:39:50,305 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:39:50,307 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:39:50,307 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources
+2024-08-27 00:47:32,260 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:47:32,260 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\resources
+2024-08-27 00:47:32,263 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 00:47:32,263 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\test\resources

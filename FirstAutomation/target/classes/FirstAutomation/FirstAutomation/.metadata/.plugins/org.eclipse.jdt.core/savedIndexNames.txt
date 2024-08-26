@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+G:\SenSe\Imp\T E S T I N G\DEPI\Testing Eng-Amr\Tasks\Task3\FirstAutomation\src\main\java\FirstAutomation\FirstAutomation\.metadata\.plugins\org.eclipse.jdt.core
