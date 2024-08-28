@@ -1,8 +1,12 @@
 package FirstAutomation.FirstAutomation;
 
+import java.time.Duration;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 public class Task4_example {
@@ -16,15 +20,17 @@ public class Task4_example {
 		System.out.println("The main heading text: " + driver.findElement(By.tagName("h1")).getText());
 		Assert.assertEquals(driver.findElement(By.tagName("h1")).getText(), "Example Domains");
 
-		driver.findElement(By.tagName("p"));
-		System.out.println("The first paragraph text: " + driver.findElement(By.tagName("p")).getText());
-		Assert.assertTrue(driver.findElement(By.tagName("p")).getText().contains("As described"));
-		
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait.until(
+				ExpectedConditions.visibilityOfElementLocated(By.xpath("//p[contains((text()),'As described in')]")));
+		System.out.println("The first paragraph text: "
+				+ driver.findElement(By.xpath("//p[contains(text(),'As described in')]")).getText());
+		Assert.assertTrue(driver.findElement(By.xpath("//p[contains((text()),'As described in')]")).getText()
+				.contains("As described"));
+
 		driver.findElement(By.linkText("Domain Names"));
 		System.out.println("The footer text: " + driver.findElement(By.linkText("Domain Names")).getText());
 		Assert.assertEquals(driver.findElement(By.linkText("Domain Names")).getText(), "Domain Names");
-
-//      driver.findElement(By.id(".............................."));
 
 		driver.close();
 	}
